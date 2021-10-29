@@ -1,3 +1,8 @@
 /.idea
 /.pytest_cache
 /venv
+env
+*.pyc
+*.DS_Store
+__pycache__
+test.db
